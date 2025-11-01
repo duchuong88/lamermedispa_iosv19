@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "738078009335",
+    "firebase_url": "https://la-mer-medispa-default-rtdb.firebaseio.com",
+    "project_id": "la-mer-medispa",
+    "storage_bucket": "la-mer-medispa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738078009335:android:826f031e61588bf62b30f2",
+        "android_client_info": {
+          "package_name": "lamermedispa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvInTbZZVxOBsokweqb843XRndPHJ4F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
